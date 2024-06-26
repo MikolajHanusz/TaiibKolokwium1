@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\dto\\keyboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\keyboardresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\model\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\model\\keyboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\dto\\keyboardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\keyboardrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\bll\\keyboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bll\\keyboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\controllers\\keyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\keyboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|c:\\users\\student\\desktop\\kolokwium\\webapplication1\\webapplication1\\bll\\ikeyboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E517BDF4-8FEC-4550-9EAF-4AA6E591E7FA}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bll\\ikeyboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyboardResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\DTO\\KeyboardResponseDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\KeyboardResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\DTO\\KeyboardResponseDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\KeyboardResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:22:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeyboardRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\DTO\\KeyboardRequestDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\KeyboardRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\DTO\\KeyboardRequestDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\KeyboardRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:21:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KeyboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\Controllers\\KeyboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\KeyboardController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\Controllers\\KeyboardController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\KeyboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:35:30.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:34:33.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Keyboard.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\Model\\Keyboard.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Model\\Keyboard.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\Model\\Keyboard.cs",
+              "RelativeToolTip": "WebApplication1\\Model\\Keyboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:47:05.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\BLL\\KeyboardService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BLL\\KeyboardService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\BLL\\KeyboardService.cs",
+              "RelativeToolTip": "WebApplication1\\BLL\\KeyboardService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:32:46.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IKeyboardService.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\BLL\\IKeyboardService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BLL\\IKeyboardService.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\Kolokwium\\WebApplication1\\WebApplication1\\BLL\\IKeyboardService.cs",
+              "RelativeToolTip": "WebApplication1\\BLL\\IKeyboardService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T09:50:28.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
